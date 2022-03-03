@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-app-generator-using-api-Xaq9n4pYG)
+- Live Site URL: [Add live site URL here](https://62212cc82f496254ac975d18--stoic-brown-8b976d.netlify.app/)
 
 ## My process
 
